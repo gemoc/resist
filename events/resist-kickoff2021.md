@@ -23,10 +23,12 @@ Welcome and Introduction
 -	Gazebo Modelling (M. Ahuja, Simula)
 
 ### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
--	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
--	Multimorphic Testing (Paul Temple)
-  * based on https://hal.inria.fr/hal-02177158
-  * Multimorphic testing (MMT) aims to assess the effectiveness of a test suite for revealing performance variations of a system.
-  * Applying Multimorphic Testing to AI Systems
+
+ -	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
+ -	   
+ - Multimorphic Testing (Paul Temple, University of Namur) 
+   * based on https://hal.inria.fr/hal-02177158
+   * Multimorphic testing aims to assess the effectiveness of a test suite for revealing performance variations of a system
+   * Applying Multimorphic Testing to AI Systems
 
 
