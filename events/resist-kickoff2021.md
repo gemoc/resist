@@ -8,6 +8,11 @@ Welcome and Introduction
 
 ### 10:00 - 12:00 ML for Test Configurations Generation (moderator: M. Acher)
 - Deep Variability/Non-functional requirements (L. Lesoil, Inria)
+  * based on https://hal.inria.fr/hal-03084276v2
+  * what is deep variability? 
+  * the input sensitivity problem 
+  * interplay compile-time / runtime options 
+  * metamorphic relations for deep variability  
 -	Reinforcement Learning for test case selection and prioritisation (H. Spieker, Simula) 
 
 ### Lunch break
@@ -20,5 +25,8 @@ Welcome and Introduction
 ### 15:30 - 17:30 Metamorphic Testing for Autonomous Systems (moderator: B. Combemale)
 -	Metamorphic Testing: Some Open Problems (A. Gotlieb, Simula)
 -	Multimorphic Testing (Paul Temple)
+  * based on https://hal.inria.fr/hal-02177158
+  * Multimorphic testing (MMT) aims to assess the effectiveness of a test suite for revealing performance variations of a system.
+  * Applying Multimorphic Testing to AI Systems
 
 
