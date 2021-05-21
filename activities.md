@@ -16,7 +16,7 @@ order: 2
 
 ## Plenary RESIST meetings
 
- - **BREAKING NEWS** The next meeting will be held 26 May (full day, remotely)
+ - May 26, 2021: [Kickoff Meeting](http://gemoc.org/resist/events/resist-kickoff2021) of the RESIST team
 
 ## Visits Simula & Inria
 
