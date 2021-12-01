@@ -13,6 +13,7 @@ order: 2
 ## Open Workshops
 
 - March 16, 2021: [Inria-Simula Workshop, session about RESIST](http://gemoc.org/resist/events/inriasimula2021) (virtual event)
+- January 27, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
 
 ## Plenary RESIST meetings
 
@@ -20,4 +21,7 @@ order: 2
 
 ## Visits Simula & Inria
 
-TBC.
+ - June 4th, 2021: Deep Variability (online)
+ - June 10th, 2021: Testing AI Planners (online)
+ - June 18th, 2021: Metamorphic Testing (physical meeting organized at Inria Rennes, France)
+ - 
