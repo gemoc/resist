@@ -14,6 +14,7 @@ the [VIAS and COMPLEX teams](https://www.simula.no/research/software-engineering
 research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
 * [Luc Lesoil](https://www.linkedin.com/in/luc-lesoil-ensai/), PhD student, University of Rennes 1 with expertise in machine learning, performance engineering, and
 software systems. Luc will bring his skills in statistical learning, data analysis, and software variations.
+* Quentin Mazouni, RESIST Internship Student, INSA Rennes 1
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
 Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) with expertise in Software Validation and Verification of software-intensive systems and Artificial Intelligence for Software Testing. His recent research interests include the usage of constraint optimization and machine learning to improve software testing processes.
