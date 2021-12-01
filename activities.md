@@ -21,7 +21,12 @@ order: 2
 
 ## Visits Simula & Inria
 
- - June 4th, 2021: Deep Variability (online)
- - June 10th, 2021: Testing AI Planners (online)
- - June 18th, 2021: Metamorphic Testing (physical meeting organized at Inria Rennes, France)
- - 
+ - June   4th, 2021: Deep Variability (online)
+ - June  10th, 2021: Testing AI Planners (online)
+ - June  18th, 2021: Metamorphic Testing (physical meeting organized at Inria Rennes, France)
+ - Sept   2nd, 2021: Deep Variability (physical meeting organized at Inria Rennes, France)
+ - Oct.   4th, 2021: Metamorphic Testing of AI Planners (online)
+ - Oct. 11-22, 2021: Long-term visit of Q. Mazouni (Inria) at Simula Research Laboratory, Oslo, Norway
+ - Nov.  12th, 2021: Metamorphic Testing of AI Planners (online)
+ - Nov.  26th, 2021: Metamorphic Testing (physical meeting organized at Inria Rennes, France)
+ - Dec.   1st, 2021: Deep Variability (online)  
