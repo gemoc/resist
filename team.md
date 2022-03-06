@@ -18,8 +18,8 @@ software systems. Luc will bring his skills in statistical learning, data analys
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
 Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) with expertise in Software Validation and Verification of software-intensive systems and Artificial Intelligence for Software Testing. His recent research interests include the usage of constraint optimization and machine learning to improve software testing processes.
+* [Helge Spieker](https://www.simula.no/people/helge), VIAS Dept., Research Scientist with expertise in artificial intelligence (Machine Learning, Constraint Optimization) and software testing. 
 * [Dusica Marijan](https://www.simula.no/people/dusica), VIAS Dept., Senior Research Scientist with expertise in applying artificial intelligence techniques for improving software quality.
-* [Helge Spieker](https://www.simula.no/people/helge), VIAS Dept., Postdoc with expertise in artificial intelligence and software testing. Helge will bring his skills in metamorphic testing and machine learning.
 * [Mohammed Bachir Belaid](https://www.simula.no/people/bachir), VIAS Dept., Postdoc with expertise in constraint programming and data mining, currently working on constraint acquisition for learning robot scheduling tasks. 
 * [Mohit Kumar Ahuja](https://www.simula.no/people/mohit) VIAS Dept., PhD student with expertise in robotics and machine learning, currently working on developing methods for testing learning robots.
 * [Aizaz Sharif](https://www.simula.no/people/aizaz), VIAS Dept., PhD student, working on reinforcement learning for testing autonomous systems, with current focus on testing self-driving cars in simulation. 
