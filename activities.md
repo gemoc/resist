@@ -13,7 +13,7 @@ order: 2
 ## Open Workshops
 
 - March 16, 2021: [Inria-Simula Workshop, session about RESIST](http://gemoc.org/resist/events/inriasimula2021) (virtual event)
-- March 31, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
+- March 29, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
 
 ## Plenary RESIST meetings
 
