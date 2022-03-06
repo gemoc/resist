@@ -13,7 +13,7 @@ order: 2
 ## Open Workshops
 
 - March 16, 2021: [Inria-Simula Workshop, session about RESIST](http://gemoc.org/resist/events/inriasimula2021) (virtual event)
-- January 27, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
+- March 31, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
 
 ## Plenary RESIST meetings
 
@@ -29,4 +29,5 @@ order: 2
  - Oct. 11-22, 2021: Long-term visit of Q. Mazouni (Inria) at Simula Research Laboratory, Oslo, Norway
  - Nov.  12th, 2021: Metamorphic Testing of AI Planners (online)
  - Nov.  26th, 2021: Metamorphic Testing (physical meeting organized at Inria Rennes, France)
- - Dec.   1st, 2021: Deep Variability (online)  
+ - Dec.   1st, 2021: Deep Variability (online)
+ - Jan.  21th, 2022: MetaTestPlan (physical meeting at Inria Rennes, France)
