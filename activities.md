@@ -14,7 +14,7 @@ order: 2
 
 - March 16, 2021: [Inria-Simula Workshop, session about RESIST_EA](http://gemoc.org/resist/events/inriasimula2021) (virtual event)
 
-## Plenary RESIST meetings
+## Plenary RESIST_EA meetings
 
  - May 26, 2021: [Kickoff Meeting](http://gemoc.org/resist/events/resist-kickoff2021) of the RESIST_EA team
  - March 29, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
