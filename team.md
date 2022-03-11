@@ -5,7 +5,7 @@ permalink: team.html
 order: 5
 ---
 
-RESIST gathers the following members of the [DiverSE team](http://diverse.irisa.fr/) ([Inria](https://www.inria.fr/), FR) and 
+RESIST_EA gathers the following members of the [DiverSE team](http://diverse.irisa.fr/) ([Inria](https://www.inria.fr/), FR) and 
 the [VIAS and COMPLEX teams](https://www.simula.no/research/software-engineering) ([Simula](https://www.simula.no), NO).
 
 * **[Mathieu Acher](https://www.mathieuacher.com/), Associate Professor, Inria and Univ. Rennes 1, France (Co-PI)** Mathieu's research interests include variability and configurable systems, machine learning, and performance testing, applied in the context of software-intensive systems. He will contribute to RESIST by providing expertise on multimorphic testing and AI-based management of software variability/configurations.
