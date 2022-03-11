@@ -21,11 +21,13 @@ defines changes over both inputs and outputs, i.e. the AS environment and its be
 the accepted variations in behavior. Recent works applied machine learning to select the
 most likely fault-revealing metamorphic relations for a given test input [2]. We will follow the
 general idea to identify meaningful metamorphic relations by mining input and output data. 
-*Multimorphic testing* [6] will also be considered for assessing the effectiveness of performance test suites of software systems.
-By analogy with mutation testing, the core idea of Multimorphic testing is to leverage the typical configurability of these systems, and to check whether it makes any difference in the outcome of the tests: i.e., are some tests able to "kill" underperforming system configurations?
-Second, we can *amplify* the test inputs through the observation of how the system reacts. For
-example, some execution traces of the system can show that some zones of the programs
-have been neglected in terms of test coverage. This allows us to generate test scenarios in
+*Multimorphic testing* [6] will also be considered for assessing the effectiveness of performance
+test suites of software systems. By analogy with mutation testing, the core idea of Multimorphic 
+testing is to leverage the typical configurability of these systems, and to check whether it makes 
+any difference in the outcome of the tests: i.e., are some tests able to "kill" underperforming 
+system configurations? Second, we can *amplify* the test inputs through the observation of how the 
+system reacts. For example, some execution traces of the system can show that some zones of the 
+programs have been neglected in terms of test coverage. This allows us to generate test scenarios in
 simulation and the physical world that assess the limits of resilience. Hence an idea is to
 either synthesize new test inputs or to expand an existing test input. In both cases, we 
 believe AI has a role to play to exploit the output data and improve the testing resilience of
@@ -55,7 +57,8 @@ For a thorough evaluation of the methods for testing and improving resilient aut
 systems, it is necessary to make the transfer to the actual systems both in the digital world,
 i.e. precise simulations, and the physical world, i.e. on the AS hardware.
 In our joint work, we will utilize the available systems at both partners, e.g., a mobile rover
-robot from DiverSE and a lightweight collaborative industrial robot from Simula (specifically, Aion Robotics R1: https://www.aionrobotics.com/r1-ardupilot-edition
+robot from DiverSE and a lightweight collaborative industrial robot from Simula 
+(specifically, Aion Robotics R1: https://www.aionrobotics.com/r1-ardupilot-edition
 Universal Robots UR3: https://www.universal-robots.com/products/ur3-robot/)
 We aim to perform case studies on these systems to allow not only the evaluation of resilience using
 digital twins, but also to assess the transferability of the methods onto the physical hardware.
