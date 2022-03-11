@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RESIST team (Inria/Simula)
+title: RESIST_EA team (Inria/Simula)
 email: resist-team@inria.fr
-description: RESIST is a research team between Inria/DiverSE and Simula
+description: RESIST_EA is a research team between Inria/DiverSE and Simula
 baseurl: "/resist" # the subpath of your site, e.g. /blog
 url: "https://gemoc.github.io/resist" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gemocinitiative
