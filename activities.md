@@ -18,6 +18,7 @@ order: 2
 
  - May 26, 2021: [Kickoff Meeting](http://gemoc.org/resist/events/resist-kickoff2021) of the RESIST_EA team
  - March 29, 2022: Inria-Simula Workshop (physical event organized at Simula KA23, Oslo, Norway)
+ - Nov. 8-9th, 2022: Inria-Simula Workshop (physical event organized at Inria Rennes, France)
 
 ## Visits Simula & Inria
 2021
@@ -31,4 +32,6 @@ order: 2
  - Nov.    26, 2021: Metamorphic Testing (physical meeting organized at Inria Rennes, France)
  - Dec.     1, 2021: Deep Variability (online)
 2022
- - Jan.    21, 2022: MetaTestPlan (physical meeting at Inria Rennes, France)
+ - Jan.    21, 2022: MorphinPlan (physical meeting at Inria Rennes, France)
+ - Mar.    29, 2022: Visit of Inria/DIVERSE delegation to KA23
+ - Nov.     8, 2022: Visit of Simula/VIAS delegation to Inria Rennes
