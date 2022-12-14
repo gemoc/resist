@@ -13,8 +13,8 @@ The goal of the RESIST_EA associate team is to explore the science of resilient 
 The RESIST_EA associate team will be composed of sixteen researchers, ten from the Simula departments VIAS and COMPLEX within the [Software Engineering](https://www.simula.no/research/software-engineering) area and six researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Associate Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes, and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
 
 Here are a few pointers:
- * the scientific content (problems solved, tasks performed) can be found through slides (see Github repo https://github.com/gemoc/resist or titles of talks in Events) and papers (see Publications) 
- * activities (visits, organisation of events, etc.) is available in [events](events)
+ * the scientific content (problems solved, tasks performed) can be found through slides (see Github repo https://github.com/gemoc/resist or titles of talks in [Activities](activies)) and papers (see [publications](publications)) 
+ * activities (visits, organisation of events, etc.) is available in [Activities](activies)
  * the outcome of RESIST (publications, software, manuscripts, theses, masters, conference posters, etc.) is available in [publications](publications)
 
 **BREAKING NEWS** RESIST_EA three full-days Workshop has been held at KA23 around Mar. 29th, 2022. Another two full-days workshop happen in November 2022 at Inri.     
