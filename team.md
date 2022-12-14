@@ -9,9 +9,10 @@ RESIST_EA gathers the following members of the [DiverSE team](http://diverse.iri
 the [VIAS and COMPLEX teams](https://www.simula.no/research/software-engineering) ([Simula](https://www.simula.no), NO).
 
 * **[Mathieu Acher](https://www.mathieuacher.com/), Professor, Inria and INSA Rennes/IUF, France (Co-PI)** Mathieu's research interests include variability and configurable systems, machine learning, and performance testing, applied in the context of software-intensive systems. He will contribute to RESIST by providing expertise on multimorphic testing and AI-based management of software variability/configurations.
-* [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France. Benoit
 research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
+* [Paul Temple]([https://olivier.barais.fr](https://templep.github.io/)), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
+* [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * [Luc Lesoil](https://www.linkedin.com/in/luc-lesoil-ensai/), PhD student, University of Rennes 1 with expertise in machine learning, performance engineering, and
 software systems. Luc will bring his skills in statistical learning, data analysis, and software variations.
 * Quentin Mazouni, RESIST Internship Student, INSA Rennes 1, now PhD at SIMULA (starting in october 2022) 
