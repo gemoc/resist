@@ -17,7 +17,7 @@ Here are a few pointers:
  * activities (visits, organisation of events, etc.) is available in [Activities](activies)
  * the outcome of RESIST (publications, software, manuscripts, theses, masters, conference posters, etc.) is available in [publications](publications)
 
-**BREAKING NEWS** RESIST_EA three full-days Workshop has been held at KA23 around Mar. 29th, 2022. Another two full-days workshop happen in November 2022 at Inri.     
+**BREAKING NEWS** RESIST_EA three full-days Workshop has been held at KA23 around Mar. 29th, 2022. Another two full-days workshop happen in November 2022 at Inria (see https://gemoc.org/resist/events/resistAtInriaNov2022).     
 
 <center>
 <img src="{{ site.baseurl }}/img/inria.png" alt="Inria" style="width: 200px;"/>
