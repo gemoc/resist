@@ -14,7 +14,7 @@ the [VIAS and COMPLEX teams](https://www.simula.no/research/software-engineering
 research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
 * [Luc Lesoil](https://www.linkedin.com/in/luc-lesoil-ensai/), PhD student, University of Rennes 1 with expertise in machine learning, performance engineering, and
 software systems. Luc will bring his skills in statistical learning, data analysis, and software variations.
-* Quentin Mazouni, RESIST Internship Student, INSA Rennes 1
+* Quentin Mazouni, RESIST Internship Student, INSA Rennes 1, now PhD at SIMULA (starting in october 2022) 
 * [Xhevahire Tërnava](https://ternava.github.io/), post-doc, University of Rennes 1 with expertise in variability and feature engineering, software debloating, and automated software engineering 
 * [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general 
 
