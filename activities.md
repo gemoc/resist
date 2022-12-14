@@ -36,4 +36,4 @@ order: 2
  - Jan.    21, 2022: MorphinPlan (physical meeting at Inria Rennes, France)
  - Mar.    29, 2022: Visit of Inria/DIVERSE delegation to KA23
  - July.    2022: visit of Helge Spieker at Inria 
- - Nov.     8, 2022: Visit of Simula/VIAS delegation to Inria Rennes
+ - Nov.     8, 2022: Visit of Simula/VIAS delegation to Inria Rennes see https://gemoc.org/resist/events/resistAtInriaNov2022 
