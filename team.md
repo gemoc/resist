@@ -11,10 +11,11 @@ the [VIAS and COMPLEX teams](https://www.simula.no/research/software-engineering
 * **[Mathieu Acher](https://www.mathieuacher.com/), Professor, Inria and INSA Rennes/IUF, France (Co-PI)** Mathieu's research interests include variability and configurable systems, machine learning, and performance testing, applied in the context of software-intensive systems. He will contribute to RESIST by providing expertise on multimorphic testing and AI-based management of software variability/configurations.
 * [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France. Benoit
 research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
-* [Paul Temple]([https://olivier.barais.fr](https://templep.github.io/)), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
+* [Paul Temple](https://templep.github.io/), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * [Xhevahire Tërnava](https://ternava.github.io/), post-doc, University of Rennes 1 with expertise in variability and feature engineering, software debloating, and automated software engineering 
 * [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general 
+
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
 Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) with expertise in Software Validation and Verification of software-intensive systems and Artificial Intelligence for Software Testing. His recent research interests include the usage of constraint optimization and machine learning to improve software testing processes.
