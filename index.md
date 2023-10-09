@@ -10,7 +10,7 @@ The associated team Resilient Software Science (RESIST_EA) will research the fou
 
 The goal of the RESIST_EA associate team is to explore the science of resilient software by foundational work on advanced a priori testing methods such as metamorphic testing and a posteriori continuous improvements through digital twins. 
 
-The RESIST_EA associate team will be composed of sixteen researchers, ten from the Simula departments VIAS and COMPLEX within the [Software Engineering](https://www.simula.no/research/software-engineering) area and six researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Associate Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes, and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
+The RESIST_EA associate team will be composed of sixteen researchers, ten from the Simula departments VIAS and COMPLEX within the [Software Engineering](https://www.simula.no/research/research-areas/software-engineering/) area and six researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Associate Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes, and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
 
 Here are a few pointers:
  * the scientific content (problems solved, tasks performed) can be found through slides (see Github repo https://github.com/gemoc/resist or titles of talks in [Activities](activities)) and papers (see [publications](publications)) 
