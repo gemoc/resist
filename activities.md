@@ -37,3 +37,9 @@ order: 2
  - Mar.    29, 2022: Visit of Inria/DIVERSE delegation to KA23
  - July.    2022: visit of Helge Spieker at Inria 
  - Nov.     8, 2022: Visit of Simula/VIAS delegation to Inria Rennes see https://gemoc.org/resist/events/resistAtInriaNov2022 
+
+2023
+ - Mar. 14, 2023: Visit of H. Spieker at Inria Rennes - Seminar
+ - May. 10, 2023: Visit (1 week) Paul Temple at Simula, Oslo
+ - Jun. 29, 2023: Visit A. Gotlieb at Inria Rennes
+
