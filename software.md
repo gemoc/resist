@@ -13,4 +13,4 @@ RESIST_EA contributes to the following software projects:
 RESIST_EA researchers also initiated the development of:
 
 * Metamorphic Testing for AI Planning Systems
-* Learning Video Highly-Configurable Encoder Performence 
+* Learning Highly-Configurable Video Encoder Performance 
