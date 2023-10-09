@@ -23,7 +23,7 @@ Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) 
 * [Quentin Mazouni](https://www.simula.no/people/quentin), PhD at SIMULA (since Aug. 2022), VIAS Dept., working on the validation of AI planning systems. 
 
 * [Shaukat Ali](https://www.simula.no/people/shaukat), Head of Department of the COMPLEX department Simula with expertise in (1) CPS modeling, development, and testing; (2) Digital twins  
-* [Qinghua Xu] PhD student at the COMPLEX department working on building digital twins for CPS security for operational time analyses.  
+* [Qinghua Xu](https://www.simula.no/people/qinghua/) PhD student at the COMPLEX department working on building digital twins for CPS security for operational time analyses.  
 
 
 ### Alumni:
