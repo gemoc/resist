@@ -3,6 +3,8 @@ layout: default
 order : 0
 ---
 
+**The RESIST associate team has been renewed as RIPOST (Resilient and Reproducible Software). The website has moved [to a new location](https://diverse-project.github.io/ripost_ea/).**
+
 The associated team Resilient Software Science (RESIST_EA) will research the foundations of “Resilient Software” – software systems which can resist failures without significantly degrading their functionality. Over the past years, resilient software systems have become extremely important in various application domains. By combining Inria’s and Simula´s expertise in software engineering, resilient software, and AI-based software testing, the RESIST_EA associate team will address the following challenges:
 - Utilizing observation data for assessing resilience under varying conditions
 - Digital twins for continuous improvement of resilient autonomous/smart systems
